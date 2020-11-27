@@ -1,4 +1,4 @@
-마크다운 언어로 글쓰기
+A. 마크다운 언어로 글쓰기
 ===
 **11월 마지막주 주말의 할일 정리**
 
@@ -30,7 +30,8 @@ _기울여쓰기는 이렇게_
   <br>
   <br>
 
-> # 할 일 목록 관리하는 방법
+B. 할 일 목록 관리하는 방법
+===
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
