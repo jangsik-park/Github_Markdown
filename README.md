@@ -37,3 +37,9 @@ B. 할 일 목록 관리하는 방법
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+C. 참고자료
+===
+- #### [깃허브 취향의 마크다운 번역](https://nolboo.kim/blog/2014/03/25/github-flavored-markdown/)
+- #### [Github 마크다운 자료](https://gist.github.com/ihoneymon/652be052a0727ad59601#241-%EB%93%A4%EC%97%AC%EC%93%B0%EA%B8%B0)
