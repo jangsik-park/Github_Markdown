@@ -38,6 +38,8 @@ B. 할 일 목록 관리하는 방법
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+ <br>
+  <br>
 
 C. 참고자료
 ===
